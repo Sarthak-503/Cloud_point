@@ -1,3 +1,8 @@
+This Project is a real time weather App. User can get real time weather information of any place all around the world. I have used "axios" library for fetching weather information and "openweathermap.org" weather API. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
