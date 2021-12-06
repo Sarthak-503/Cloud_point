@@ -3,6 +3,21 @@ This Project is a real time weather App. User can get real time weather informat
 
 
 
+![weather2](https://user-images.githubusercontent.com/61836428/144836776-92c3e43f-47f5-4e91-8cdc-d6f65a8be24d.png)
+
+
+
+
+
+![weather3](https://user-images.githubusercontent.com/61836428/144836826-a06d7246-ca98-47f0-8efc-c7f329a640d8.png)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
